@@ -1,0 +1,6 @@
+D:\TEST\ConsoleApplicationJDA\ConsoleApplicationJDA\bin\Debug\ConsoleApplicationJDA.exe.config
+D:\TEST\ConsoleApplicationJDA\ConsoleApplicationJDA\bin\Debug\ConsoleApplicationJDA.exe
+D:\TEST\ConsoleApplicationJDA\ConsoleApplicationJDA\bin\Debug\ConsoleApplicationJDA.pdb
+D:\TEST\ConsoleApplicationJDA\ConsoleApplicationJDA\obj\Debug\ConsoleApplicationJDA.csprojResolveAssemblyReference.cache
+D:\TEST\ConsoleApplicationJDA\ConsoleApplicationJDA\obj\Debug\ConsoleApplicationJDA.exe
+D:\TEST\ConsoleApplicationJDA\ConsoleApplicationJDA\obj\Debug\ConsoleApplicationJDA.pdb
